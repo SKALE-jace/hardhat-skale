@@ -29,7 +29,7 @@ module.exports = {
   },
   etherscan: { 
     apiKey: {
-      schain: process.env.ETHERSCAN_API_KEY,
+      skale: process.env.ETHERSCAN_API_KEY,
     },
     customChains: [
       {
